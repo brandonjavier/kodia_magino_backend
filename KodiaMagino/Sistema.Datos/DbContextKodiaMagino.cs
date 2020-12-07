@@ -1,5 +1,7 @@
 ﻿using KodiaMagino.Datos.Mapping.Usuarios;
+using KodiaMagino.Datos.Mapping.Ventas;
 using KodiaMagino.Entidades.Usuarios;
+using KodiaMagino.Entidades.Ventas;
 using Microsoft.EntityFrameworkCore;
 using Sistema.Datos.Mapping.Almacen;
 using Sistema.Entidades.Almacen;
@@ -15,6 +17,7 @@ namespace Sistema.Datos
         public DbSet<Articulo> Articulos { get; set; }
         public DbSet<Rol> Roles { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Persona> Personas { get; set; }
 
         public DbContextSistema(DbContextOptions<DbContextSistema> options) : base(options)
         {
@@ -28,6 +31,7 @@ namespace Sistema.Datos
             modelBuilder.ApplyConfiguration(new ArticuloMap());
             modelBuilder.ApplyConfiguration(new RolMap());
             modelBuilder.ApplyConfiguration(new UsuarioMap());
+            modelBuilder.ApplyConfiguration(new PersonaMap());
         }
 
     }
