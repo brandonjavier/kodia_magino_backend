@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\bin\Debug\netcoreapp2.1\KodiaMagino.Datos.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\bin\Debug\netcoreapp2.1\KodiaMagino.Datos.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\bin\Debug\netcoreapp2.1\KodiaMagino.Datos.runtimeconfig.dev.json
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\bin\Debug\netcoreapp2.1\KodiaMagino.Datos.dll
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\bin\Debug\netcoreapp2.1\KodiaMagino.Datos.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\bin\Debug\netcoreapp2.1\KodiaMagino.Entidades.dll
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\bin\Debug\netcoreapp2.1\KodiaMagino.Entidades.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.csprojAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.dll
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\BACKEND\KODIAMAGINO\kodia_magino_backend\KodiaMagino\Sistema.Datos\obj\Debug\netcoreapp2.1\KodiaMagino.Datos.genruntimeconfig.cache

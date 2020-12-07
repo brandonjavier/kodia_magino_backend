@@ -1,0 +1,41 @@
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\LENOVO\Downloads\proyecto ejemplo\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
